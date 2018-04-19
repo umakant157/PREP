@@ -1,0 +1,5 @@
+1. Loos & Tight Coupling
+2. Interface Vs Abstract class. When to use one over other.
+3. IOC
+4. Static class and all its funda.
+5. Events and Delegate
